@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos
+Carlos Monteiro
 =======================
 
 Web Developer
@@ -6,7 +6,7 @@ Web Developer
 
 Formado em Análise e Desenvolvimento de Sistemas em 2018. Atualmente atuando como Desenvolvedor Front-end.
 
-* ✉️  You can contact me at [carlosmonteirocontato@gmail.com](mailto:carlosmonteirocontato@gmail.com)
+* ✉️  Contato [carlosmonteirocontato@gmail.com](mailto:carlosmonteirocontato@gmail.com)
 
 ### Skills
 
