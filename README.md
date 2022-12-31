@@ -28,7 +28,7 @@ Formado em Análise e Desenvolvimento de Sistemas em 2018. Atualmente atuando co
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/monteirocarlos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a target="_blank" href="http://www.instagram.com/_carlos.monteiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a target="_blank" href="https://www.linkedin.com/in/carlos-monteiro-6a97b6189/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/monteirocarlos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a target="_blank" href="https://www.linkedin.com/in/carlos-monteiro-6a97b6189/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
