@@ -4,7 +4,11 @@ Carlos Monteiro
 Web Developer
 -------------
 
-Formado em Análise e Desenvolvimento de Sistemas em 2018. Atualmente atuando como Desenvolvedor Front-end.
+Olá! Meu nome é Carlos Monteiro, sou formado em Análise e Desenvolvimento de Sistemas. Possuo vasta experiência em desenvolvimento Front-end, tendo trabalhado em projetos de grandes empresas como Coca-Cola, Saint Gobain, Intercement, Drogaria São Paulo, entre outras.
+
+Tenho habilidades em diversas tecnologias, como Bootstrap, Git, GitHub, AWS, servidor Linux, Figma, Adobe Photoshop, WordPress, SASS, MySQL, PHP, CSS, JavaScript, HTML e Adobe XD. Além disso, possuo experiência em metodologias ágeis, como o Scrum.
+
+Particularmente, destaco minha experiência em trabalhar com Scrum, tendo atuado em diversos projetos utilizando essa metodologia. Com o Scrum, consigo colaborar de forma eficiente com o time, auxiliando na priorização de tarefas, planejamento de sprints e monitoramento de entregas. Isso permite que os projetos sejam executados de forma mais organizada e assertiva, garantindo a satisfação do cliente e a qualidade do produto final.
 
 * ✉️  Contato [carlosmonteirocontato@gmail.com](mailto:carlosmonteirocontato@gmail.com)
 
